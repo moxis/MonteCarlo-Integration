@@ -14,7 +14,7 @@ $ pip install numpy
 $ pip install timeit
 ```
 
-### Usage
+## Usage
 
 Firstly, replace the **y** variable in the code with the function you are planning to evaluate.
 ```
